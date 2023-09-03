@@ -1,0 +1,10 @@
+{
+  "name": ".github",
+  "author": "Lloyd Brookes <75pound@gmail.com>",
+  "version": "0.0.0",
+  "description": "Github defaults",
+  "repository": "https://github.com/75lb/.github",
+  "scripts": {
+    "push": "git push origin && git push lwsjs && git push jsdoc2md"
+  }
+}
